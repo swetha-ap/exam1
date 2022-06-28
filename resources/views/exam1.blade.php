@@ -195,7 +195,7 @@
     </script>
     <table border="3" class="table">
 
-        <tr>
+        
             <thead>
                 <th>ID</th>
                 <th>Product Name</th>
@@ -204,7 +204,7 @@
                 <th>Sub Category</th>
                 <th>Weight</th>
                 <th>Qty</th>
-        </tr>
+        
         </thead>
         <tbody id="pr1">
 
